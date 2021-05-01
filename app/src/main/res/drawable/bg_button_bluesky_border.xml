@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="@color/biru_langit"/>
+            <corners android:radius="@dimen/ukuran_radius_border_button"/>
+        </shape>
+    </item>
+    <item
+        android:top="@dimen/ukuran_border_button"
+        android:right="@dimen/ukuran_border_button"
+        android:bottom="@dimen/ukuran_border_button"
+        android:left="@dimen/ukuran_border_button">
+        <selector>
+            <item>
+                <shape>
+                    <solid android:color="@color/white"/>
+                    <corners android:radius="@dimen/ukuran_radius_button"/>
+                </shape>
+            </item>
+        </selector>
+    </item>
+</layer-list>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Latihan 2 - BLOODSHARE</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="or">OR</string>
+    <string name="connect_with_facebook">CONNECT WITH FACEBOOK</string>
+    <string name="does_not_have_account">doesn&apos;t have account ?</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="male">Male</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="personal">Personal</string>
+    <string name="organization">Organization</string>
+    <string name="home_address">Home Address</string>
+    <string name="default_location">Default Location</string>
+    <string name="agree_terms">Agree with Terms and Conditions</string>
+    <string name="almost_there">Almost There</string>
+    <string name="thank1">Thank you for registering with us. One more</string>
+    <string name="thank2">step, you need to check your email</string>
+    <string name="thank3">to active your account</string>
+    <string name="verify">Verify</string>
+    <string name="verify_your_account">Verify Your Account</string>
+    <string name="we_have_send_verif">We have send verification code to your email</string>
+    <string name="enter_verification_code_here">enter verification code here</string>
+    <string name="send">SEND</string>
+    <string name="does_not_get_the_code">doesn&apos;t get the code?</string>
+    <string name="resend">Resend</string>
+    <string-array name="blood_types">
+        <item>Blood Type</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="reshus">
+        <item>Reshus</item>
+    </string-array>
+    <string-array name="jobs">
+        <item>Job</item>
+    </string-array>
+
+</resources>

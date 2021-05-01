@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ukuran_radius_border_button">5dp</dimen>
+    <dimen name="ukuran_radius_button">2dp</dimen>
+    <dimen name="ukuran_border_button">2dp</dimen>
+    <dimen name="ukuran_margin_dari_button">20dp</dimen>
+    <dimen name="ukuran_margin_left_register">3dp</dimen>
+    <dimen name="margin_top_100">100dp</dimen>
+    <dimen name="margin_top_50">50dp</dimen>
+    <dimen name="padding_linear_layout_terluar">30dp</dimen>
+    <dimen name="ukuran_almost_there">30sp</dimen>
+</resources>
