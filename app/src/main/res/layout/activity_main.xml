@@ -80,7 +80,8 @@
             android:layout_toRightOf="@id/does_not_have"
             android:layout_marginLeft="@dimen/ukuran_margin_left_register"
             android:textColor="@color/white"
-            android:textStyle="bold"/>
+            android:textStyle="bold"
+            android:onClick="openRegisterActivity"/>
 
 
     </RelativeLayout>

@@ -128,7 +128,8 @@
             android:layout_height="wrap_content"
             android:text="@string/register"
             android:background="@drawable/bg_button_bluesky_border"
-            android:textColor="@color/biru_langit"/>
+            android:textColor="@color/biru_langit"
+            android:onClick="openAlmostThereActivity"/>
     </LinearLayout>
 
 </LinearLayout>

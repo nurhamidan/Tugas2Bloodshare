@@ -2,7 +2,9 @@ package com.nurhamidan.latihan2_bloodshare;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 
@@ -16,5 +18,10 @@ public class RegisterActivity extends AppCompatActivity {
 //        ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this, R.array.blood_types, android.R.layout.simple_spinner_item);
 //        adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
 //        spinner.setAdapter(adapter);
+    }
+
+    public void openAlmostThereActivity(View v) {
+        Intent intent = new Intent(this, AlmostActivity.class);
+        this.startActivity(intent);
     }
 }
