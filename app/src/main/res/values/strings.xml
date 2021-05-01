@@ -27,6 +27,22 @@
     <string name="send">SEND</string>
     <string name="does_not_get_the_code">doesn&apos;t get the code?</string>
     <string name="resend">Resend</string>
+    <string name="nama">Agung Nurhamidan</string>
+    <string name="blood_type">Blood type : O</string>
+    <string name="blood_give_value">75</string>
+    <string name="blood_give">BLOOD GIVE</string>
+    <string name="blood_received">BLOOD RECEIVED</string>
+    <string name="blood_received_value">100</string>
+    <string name="thanks">THANKS</string>
+    <string name="thanks_value">330</string>
+    <string name="search_donor">Search Donor</string>
+    <string name="blood_needed">Blood Needed</string>
+    <string name="message">Message</string>
+    <string name="donor_history">Donor History</string>
+    <string name="search_donor_description">Search donor near you</string>
+    <string name="blood_needed_description">4 Users need blood</string>
+    <string name="message_description">5 New Messages</string>
+    <string name="donor_history_desc">5 gives, 2 received</string>
     <string-array name="blood_types">
         <item>Blood Type</item>
         <item>A</item>
